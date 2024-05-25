@@ -26,3 +26,5 @@
 
 
 //alert("Your dog is " + humanAge + " years old in human years. Amazing!!!!!");
+
+// js functions
