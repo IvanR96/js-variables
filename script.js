@@ -122,7 +122,7 @@ function fizzBuzz(){
 }
 */
 
-let bottles = 99;
+/*let bottles = 99;
 
 function bottlesSong(){
     while(bottles >= 0){
@@ -141,4 +141,8 @@ function bottlesSong(){
 
     }
 
+}*/
+
+for(number = 1; number <= 100; number++){
+    console.log(number);
 }
