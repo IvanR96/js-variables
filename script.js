@@ -143,6 +143,7 @@ function bottlesSong(){
 
 }*/
 
-//for(number = 1; number <= 100; number++){
+/*for(number = 1; number <= 100; number++){
     console.log(number);
-}
+}*/
+
